@@ -1,2 +1,1 @@
-git commit -m "назва комміту"dddgit
-chnagerr
+test24356543
