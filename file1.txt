@@ -1,1 +1,2 @@
-git commit -m "назва комміту"dddgit
+git commit -m "назва комміту"
+test24356543
