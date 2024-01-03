@@ -1,1 +1,2 @@
 git commit -m "назва комміту"dddgit
+chnagerr
